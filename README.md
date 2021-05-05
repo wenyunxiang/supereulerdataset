@@ -1,4 +1,4 @@
-# supereulerdataset
+# supereulerian graph dataset
  The adjacent matrix dataset of supereulerian graph
 
 The input is the number of vertices in the graph and the number of adjacency matrices to generate, separated by a space character.
